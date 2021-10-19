@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tomatoeater
+- 👀 I’m interested in ?
+- 🌱 I’m currently learning engineering?
+- 💞️ I’m looking to collaborate on ?
+- 📫 How to reach me ?
